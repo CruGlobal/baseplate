@@ -1,4 +1,4 @@
-baseplate
-=========
+cru-baseplate
+=============
 
-A starting point for front end builds
+Cru Baseplate is the default starting point for front-end builds

@@ -1,0 +1,1 @@
+Images that are only referenced through css belong here

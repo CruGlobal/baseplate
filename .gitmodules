@@ -1,0 +1,6 @@
+[submodule "dev/styles/crubrand.css"]
+	path = dev/styles/crubrand.css
+	url = https://github.com/CruGlobal/crubrand.css.git
+[submodule "dev/styles/inuit.css"]
+	path = dev/styles/inuit.css
+	url = https://github.com/thejamesdempsey/inuit.css.git
