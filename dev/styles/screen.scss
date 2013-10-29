@@ -1,7 +1,7 @@
 /*------------------------------------*\
     SCREEN.CSS
 \*------------------------------------*/
-/*!*
+/**
  *
  * The main file for our starting point. THis files is where all the imports
  * happen. No CSS or SCSS please. 
@@ -32,6 +32,7 @@
 
 
 @import 'inuit.css/inuit';
+@import 'crubrand.css/cru-brand';
 
 
 
@@ -39,9 +40,9 @@
 /**
  * Project specific files
  */
-@import 'project/reset';
-@import 'project/variables';
-@import 'project/project';
+@import 'project/name-of-project-reset';
+@import 'project/name-of-project-vars';
+@import 'project/name-of-project';
 
 
 
