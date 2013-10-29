@@ -2,6 +2,15 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8376",
   "files" : {
+    "\/assets\/styles\/print.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/styles\/print.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/dev\/styles\/inuit.css\/objects\/_this-or-this.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -23,6 +32,18 @@
       "outputStyle" : 3,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_flexbox.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-helpers.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-helpers.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-helpers.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -73,6 +94,30 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-lists.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-lists.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-lists.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-images.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-images.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-images.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/dev\/styles\/inuit.css\/base\/_headings.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -85,6 +130,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/dev\/styles\/inuit.css\/generic\/_mixins.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -96,15 +150,6 @@
       "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_mixins.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/assets\/styles\/ie.css" : {
       "ignoreWasSetByUser" : 0,
@@ -151,15 +196,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/dev\/styles\/inuit.css\/base\/_code.scss" : {
+    "\/dev\/styles\/crubrand.css\/_cru-reset.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/base\/_code.scss",
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/_cru-reset.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_code.css",
+      "outputAbbreviatedPath" : "\/dev\/assets\/styles\/_cru-reset.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -173,6 +218,18 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/assets\/scripts\/jquery-1.10.1.min.min.js",
       "fileType" : 64
+    },
+    "\/dev\/styles\/inuit.css\/base\/_code.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/base\/_code.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_code.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/dev\/styles\/inuit.css\/generic\/_normalize.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -207,6 +264,18 @@
       "outputStyle" : 3,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_breadcrumb.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-scaffolding.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-scaffolding.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-scaffolding.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -270,6 +339,18 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-links.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-links.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-links.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/dev\/styles\/inuit.css\/objects\/_options.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -291,6 +372,18 @@
       "outputStyle" : 3,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_matrix.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-type.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-type.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-type.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -425,6 +518,18 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/dev\/styles\/crubrand.css\/_cru-brand.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/_cru-brand.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/assets\/styles\/_cru-brand.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/assets\/styles\/screen.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -433,6 +538,18 @@
       "inputAbbreviatedPath" : "\/assets\/styles\/screen.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-backgrounds.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-backgrounds.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-backgrounds.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/dev\/styles\/inuit.css\/objects\/_icon-text.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -458,18 +575,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/dev\/styles\/inuit.css\/objects\/_pagination.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_pagination.scss",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_pagination.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/dev\/styles\/inuit.css\/objects\/_arrows.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -482,15 +587,27 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/dev\/styles\/inuit.css\/objects\/_beautons.scss" : {
+    "\/dev\/styles\/inuit.css\/objects\/_pagination.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_beautons.scss",
+      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_pagination.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_beautons.css",
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_pagination.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-forms.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-forms.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-forms.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -506,28 +623,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/dev\/styles\/inuit.css\/objects\/_sprite.scss" : {
+    "\/dev\/styles\/crubrand.css\/base\/_cru-buttons.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_sprite.scss",
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-buttons.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_sprite.css",
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-buttons.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/dev\/scripts\/main.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/dev\/scripts\/main.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/scripts\/main.min.js",
-      "fileType" : 64
     },
     "\/dev\/styles\/inuit.css\/objects\/_island.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -541,6 +647,18 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-fonts.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-fonts.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-fonts.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/dev\/styles\/ie.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -550,6 +668,18 @@
       "outputStyle" : 3,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/assets\/styles\/ie.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/dev\/styles\/inuit.css\/objects\/_sprite.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_sprite.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_sprite.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -574,6 +704,29 @@
       "outputStyle" : 3,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_smallprint.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/dev\/scripts\/main.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/scripts\/main.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/scripts\/main.min.js",
+      "fileType" : 64
+    },
+    "\/dev\/styles\/inuit.css\/objects\/_beautons.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_beautons.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_beautons.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -624,6 +777,18 @@
       "outputAbbreviatedPath" : "\/assets\/scripts\/modernizr-2.6.2-respond-1.1.0.min.min.js",
       "fileType" : 64
     },
+    "\/dev\/styles\/crubrand.css\/base\/_cru-messages.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-messages.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-messages.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/dev\/styles\/inuit.css\/base\/_lists.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -635,6 +800,15 @@
       "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_lists.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/404.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/404.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/dev\/styles\/inuit.css\/base\/_tables.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -660,24 +834,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/404.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/404.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/dev\/styles\/inuit.css\/objects\/_greybox.scss" : {
+    "\/dev\/styles\/crubrand.css\/base\/_cru-vars.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_greybox.scss",
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-vars.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_greybox.css",
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-vars.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -693,15 +858,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/dev\/styles\/inuit.css\/objects\/_marginalia.scss" : {
+    "\/dev\/styles\/inuit.css\/objects\/_greybox.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_marginalia.scss",
+      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_greybox.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_marginalia.css",
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_greybox.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -717,6 +882,18 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/dev\/styles\/inuit.css\/objects\/_marginalia.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/dev\/styles\/inuit.css\/objects\/_marginalia.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_marginalia.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/dev\/styles\/inuit.css\/objects\/_flyout.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -729,14 +906,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/assets\/styles\/print.css" : {
+    "\/dev\/styles\/crubrand.css\/base\/_cru-mixins.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/styles\/print.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/dev\/styles\/crubrand.css\/base\/_cru-mixins.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dev\/styles\/assets\/styles\/_cru-mixins.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     }
   },
   "manualImportLinks" : [
