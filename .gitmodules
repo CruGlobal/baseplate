@@ -1,0 +1,6 @@
+[submodule "dev/styles/crubrand"]
+	path = dev/styles/crubrand
+	url = git://github.com/CruGlobal/crubrand.git
+[submodule "dev/styles/brackets.css"]
+	path = dev/styles/brackets.css
+	url = git://github.com/thejamesdempsey/brackets.css.git
