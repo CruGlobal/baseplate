@@ -4,7 +4,7 @@
 /**
  *
  * The main file for our starting point. THis files is where all the imports
- * happen. No CSS or SCSS please. 
+ * happen. No CSS or SCSS other than imports please. 
  *
  */
 
@@ -15,7 +15,7 @@
  * CONTENTS............You’re reading it!
  * IMPORTS.............Begin importing the sections below
  *
- * INUIT...............The inuit OO framework
+ * BRACKETS............The inuit OO framework
  * 
  * RESET...............Set some project defaults
  * VARIABLES...........Project specific variables
@@ -31,7 +31,7 @@
  */
 
 
-@import 'inuit.css/inuit';
+@import 'brackets.css/brackets';
 @import 'crubrand.css/cru-brand';
 
 
