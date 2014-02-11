@@ -7,6 +7,7 @@ rm -rf .git/                      && \
 git init                          && \
 mv modules .git/                  && \
 git add dev/styles/brackets.css   && \
+git add dev/styles/crubrand.css   && \
 git add .gitmodules               && \
 rm go
 
